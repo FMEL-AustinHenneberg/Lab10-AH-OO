@@ -7,3 +7,6 @@ One function per operation, in order.
 # First example
 def add(a, b): 
     return a + b
+
+def sub(a, b):
+    return b-a
